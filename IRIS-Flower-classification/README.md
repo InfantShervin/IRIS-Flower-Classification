@@ -12,9 +12,7 @@ Numpy, Pandas, Pickle, Sklearn, Seaborn, Matplotlib for visualization & analysis
 
 ```
 
-## Working URL
 
-The link to the deployed app is [this](http://karankaul10.pythonanywhere.com/).
 
 ## Note
 The Web design aspects such as the page styling have been referenced. 
